@@ -61,14 +61,14 @@ button:hover {
     .card {
         position: absolute;
         height: 25em;
-        width: 20em;
+        width: 22em;
     }
     #js-quote-text {
         width: 15em;
     }
 }
 
-@media screen and (max-width: 390px) {
+/* @media screen and (max-width: 390px) {
     .card {
         position: absolute;
         height: 25em;
@@ -82,7 +82,7 @@ button:hover {
         top: 80%;
         left: 38%;
     }
-}
+} */
 /* @media screen and (max-width: 360px) {
     .card {
         position: absolute;
