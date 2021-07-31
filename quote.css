@@ -87,7 +87,7 @@ button:hover {
     .card {
         position: absolute;
         height: 30em;
-        width: 18em;
+        width: 20em;
     }
     #js-quote-text {
         width: 13em;
