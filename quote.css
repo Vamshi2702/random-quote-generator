@@ -83,7 +83,7 @@ button:hover {
         left: 38%;
     }
 }
-@media screen and (max-width: 360px) {
+/* @media screen and (max-width: 360px) {
     .card {
         position: absolute;
         height: 30em;
@@ -97,4 +97,4 @@ button:hover {
         top: 80%;
         left: 38%;
     }
-}
+} */
